@@ -1,0 +1,9 @@
+/.vscode/
+/Library/
+/Logs/
+/obj/
+/Temp/
+*.csproj
+*.sln
+*.properties
+*.userproperties
